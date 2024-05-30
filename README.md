@@ -3,6 +3,7 @@ Qwerty-Lafayette
 
 A Qwerty layout for French-speaking users.
 
+Updated to remove nobreakspace when pressing shift+space
 
 TL;DR:
 --------------------------------------------------------------------------------
